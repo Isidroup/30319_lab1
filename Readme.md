@@ -1,4 +1,4 @@
-# Laboratorio 1: Introducción a la Programación de Microcontroladores
+# 30319 Laboratorio 1: Introducción a la Programación de Microcontroladores
 
 ## Introducción
 
@@ -62,4 +62,11 @@ lab1/
 - Comprensión de sistemas digitales y electrónica básica
 - Familiaridad con conceptos de temporización en sistemas embebidos
 
-Este laboratorio proporciona una base sólida para el desarrollo de aplicaciones más complejas en microcontroladores y sienta las bases para los laboratorios
+## Herramientas Necesarias
+
+- Keil uVision5 o superior
+- Placa de desarrollo Cypress FM4 Pioneer Kit
+
+## Cómo compilar
+
+El proyecto está preparado para ser compilado con Keil uVision. Abre el archivo `lab2.uvprojx` en la carpeta `build_keil/` y selecciona el target deseado.
